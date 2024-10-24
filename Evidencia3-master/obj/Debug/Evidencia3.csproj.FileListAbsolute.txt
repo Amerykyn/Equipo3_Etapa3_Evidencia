@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Diseño Visual 2\Evidencia3-master\bin\Debug\Evidencia3.exe.config
+C:\Users\User\Desktop\Diseño Visual 2\Evidencia3-master\bin\Debug\Evidencia3.exe
+C:\Users\User\Desktop\Diseño Visual 2\Evidencia3-master\bin\Debug\Evidencia3.pdb
+C:\Users\User\Desktop\Diseño Visual 2\Evidencia3-master\obj\Debug\Evidencia3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Diseño Visual 2\Evidencia3-master\obj\Debug\Evidencia3.Form1.resources
+C:\Users\User\Desktop\Diseño Visual 2\Evidencia3-master\obj\Debug\Evidencia3.Properties.Resources.resources
+C:\Users\User\Desktop\Diseño Visual 2\Evidencia3-master\obj\Debug\Evidencia3.Registrarse.resources
+C:\Users\User\Desktop\Diseño Visual 2\Evidencia3-master\obj\Debug\Evidencia3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Diseño Visual 2\Evidencia3-master\obj\Debug\Evidencia3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Diseño Visual 2\Evidencia3-master\obj\Debug\Evidencia3.exe
+C:\Users\User\Desktop\Diseño Visual 2\Evidencia3-master\obj\Debug\Evidencia3.pdb
